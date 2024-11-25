@@ -1,0 +1,18 @@
+.page-container{
+    width: 1250px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.page-btn{
+    background-color: black;
+    color: azure;
+    border-radius: 5%;
+    padding: 1rem;
+}
+
+.active{
+    color: black;
+    background: #fff;
+    border: solid black;
+}

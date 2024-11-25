@@ -1,0 +1,17 @@
+.mn{
+    margin-left: 450px;
+    height: 25rem;
+    width: 35rem;
+    border: 3px solid black;
+    border-top: none;
+}
+
+.btn{
+   display: flex;
+   justify-content: space-around;
+}
+
+.cnt{
+    display: flex;
+    justify-content: center;
+}
